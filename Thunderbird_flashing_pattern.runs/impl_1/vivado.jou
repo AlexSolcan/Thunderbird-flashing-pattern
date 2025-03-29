@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Mon May 20 16:08:57 2024
+# Process ID: 2616
+# Current directory: C:/temp/Thunderbird_flashing_pattern/Thunderbird_flashing_pattern.runs/impl_1
+# Command line: vivado.exe -log flashing_pattern.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source flashing_pattern.tcl -notrace
+# Log file: C:/temp/Thunderbird_flashing_pattern/Thunderbird_flashing_pattern.runs/impl_1/flashing_pattern.vdi
+# Journal file: C:/temp/Thunderbird_flashing_pattern/Thunderbird_flashing_pattern.runs/impl_1\vivado.jou
+# Running On: DESKTOP-28QSL70, OS: Windows, CPU Frequency: 1800 MHz, CPU Physical cores: 4, Host memory: 8443 MB
+#-----------------------------------------------------------
+source flashing_pattern.tcl -notrace
